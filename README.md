@@ -1,5 +1,7 @@
 # Microsoft Film Analysis Project
 ![mmm7.jpg](attachment:mmm7.jpg)
+![mmm7](https://user-images.githubusercontent.com/102309439/164793405-0e2620e7-eca6-4e1e-b448-384c1e83e733.jpg)
+
 
 
 ## Overview
@@ -22,6 +24,7 @@ Starting with over 14,000 movies(from the year 2010-2019),  we distilled our lis
 
 ## Methods 
 The first thing we did, is created a standardized variable, POPULARITY,  that would allow us to more fairly compare and judge these films. 
+![Screen Shot 2022-04-22 at 1 39 37 PM](https://user-images.githubusercontent.com/102309439/164793439-53949eec-1e85-4fff-941d-72d4e0edc12a.png)
 
 ![Screen%20Shot%202022-04-22%20at%201.39.37%20PM.png](attachment:Screen%20Shot%202022-04-22%20at%201.39.37%20PM.png)
 
@@ -40,6 +43,7 @@ The questions we sought to answer:
 
 #### Movie Year vs. Average Popularity rating  
 ![Screen%20Shot%202022-04-22%20at%202.12.22%20PM.png](attachment:Screen%20Shot%202022-04-22%20at%202.12.22%20PM.png)
+![Screen Shot 2022-04-22 at 2 12 22 PM](https://user-images.githubusercontent.com/102309439/164793532-c337fccc-6d41-4334-96ea-db3e996ac908.png)
 
 We decided the more recent the movie was produced, the more valuable its rating should be, as this is a more accurate reflection of today's audience - the audience that Microsoft will be creating content for. 
 
@@ -52,6 +56,8 @@ The two most important actionable items we investigated were genre(s) and direct
 ![Screen%20Shot%202022-04-22%20at%201.48.18%20PM.png](attachment:Screen%20Shot%202022-04-22%20at%201.48.18%20PM.png)
 
 ![Screen%20Shot%202022-04-22%20at%201.47.47%20PM.png](attachment:Screen%20Shot%202022-04-22%20at%201.47.47%20PM.png)
+![Screen Shot 2022-04-22 at 1 47 47 PM](https://user-images.githubusercontent.com/102309439/164793568-5363ca38-167f-4fa9-9cf1-2fcf979eb344.png)
+![Screen Shot 2022-04-22 at 1 48 18 PM](https://user-images.githubusercontent.com/102309439/164793572-2d7a57a3-0895-4850-8102-e01834ad828c.png)
 
 ## Conclusion and Next Steps 
 
